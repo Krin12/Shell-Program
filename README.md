@@ -11,6 +11,7 @@ System-Programming-Project
 4. 파일 재지향 (>, <) 및 파이프(|) 기능이 가능하도록 프로그램을 수정하시오.
 5. ls, pwd, cd, mkdir, rmdir, ln, cp, rm, mv, cat 명령을 팀원이 공평하게 나누어 구현하시오.
 
+## Running screen
 ### 작업자 
 - Taemin KIM(email)
   - [Go to Author's Github Page](https://github.com/Krin12)
