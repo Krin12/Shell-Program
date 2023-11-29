@@ -13,7 +13,7 @@
 
 ## Running screen
 ### 작업자 
-- Taemin KIM(email)
+- Taemin KIM(xoals5133@naver.com)
   - [Go to Author's Github Page](https://github.com/Krin12)
 
 - Soobin PARK(saysoom@naver.com)
