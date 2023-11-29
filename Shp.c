@@ -161,6 +161,7 @@ void cdCommand(char **args) {
 }
 
 void exitCommand() {
+    printf("SHP is Died...\n");
     exit(0);
 }
 
